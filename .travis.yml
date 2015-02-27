@@ -1,0 +1,5 @@
+# Travis file for my sampleapp
+language: java
+# checking out jvm 1.7 (that's the one on my laptop)
+jdk:
+  - openjdk7
